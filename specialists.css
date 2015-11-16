@@ -1,0 +1,8 @@
+.specialist {
+	overflow: hidden;
+}
+.specialist-photo {
+	float: left;
+	width: 150px;
+	margin-right: 1em;
+}
